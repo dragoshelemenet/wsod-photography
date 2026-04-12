@@ -1,0 +1,68 @@
+{
+  "settings": {
+    "siteUrl": "https://example.com",
+    "wsodUrl": "https://wsod.cloud",
+    "brandName": "WSOD Photography",
+    "logoUrl": "/wsod-logo.svg",
+    "homeTitleEn": "Bucharest Tourist Photographer",
+    "homeTitleRo": "Fotograf turistic în București",
+    "subtitleEn": "Minimal, fast and SEO-first photography portfolio for Bucharest city walks, portraits and tourist sessions.",
+    "subtitleRo": "Portofoliu foto minimalist, rapid și SEO-first pentru city walk, portrete și ședințe turistice în București.",
+    "footerEn": "WSOD Photography · Bucharest, Romania",
+    "footerRo": "WSOD Photography · București, România"
+  },
+  "carousel": [
+    {
+      "id": "slide-1",
+      "imageUrl": "/placeholder-photo.svg",
+      "altEn": "Fabulous portrait photography by WSOD Photography",
+      "altRo": "Fotografie fabuloasă de portret realizată de WSOD Photography",
+      "textEn": "Fabulous images",
+      "textRo": "Poze fabuloase"
+    },
+    {
+      "id": "slide-2",
+      "imageUrl": "/placeholder-photo.svg",
+      "altEn": "Elegant city walk portraits in Bucharest",
+      "altRo": "Portrete elegante de city walk în București",
+      "textEn": "City walk moments",
+      "textRo": "Momente city walk"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc-calea-victoriei",
+      "nameEn": "Calea Victoriei",
+      "nameRo": "Calea Victoriei",
+      "slugEn": "calea-victoriei",
+      "slugRo": "calea-victoriei",
+      "descriptionEn": "Photography around Calea Victoriei with elegant architecture and premium Bucharest city backgrounds.",
+      "descriptionRo": "Fotografie în zona Calea Victoriei, cu arhitectură elegantă și fundaluri premium din București."
+    }
+  ],
+  "models": [
+    {
+      "id": "model-amelia",
+      "name": "Amelia",
+      "slugEn": "amelia",
+      "slugRo": "amelia",
+      "descriptionEn": "Amelia's gallery combines portrait photography and city walk visuals across Bucharest.",
+      "descriptionRo": "Galeria Amaliei combină fotografia de portret cu vizualuri de city walk în București."
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-amelia-1",
+      "modelId": "model-amelia",
+      "locationId": "loc-calea-victoriei",
+      "url": "/placeholder-photo.svg",
+      "width": 1200,
+      "height": 1500,
+      "altEn": "Amelia portrait on Calea Victoriei in Bucharest",
+      "altRo": "Portret cu Amelia pe Calea Victoriei în București",
+      "captionEn": "Elegant city portrait captured on Calea Victoriei in Bucharest.",
+      "captionRo": "Portret urban elegant realizat pe Calea Victoriei în București.",
+      "sortOrder": 1
+    }
+  ]
+}
