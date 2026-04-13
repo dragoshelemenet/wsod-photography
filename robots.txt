@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dragoshelemenet.github.io/wsod-photography/sitemap.xml
